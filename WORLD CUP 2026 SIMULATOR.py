@@ -431,7 +431,7 @@ def main():
 
     while True:
         print("\n" + "=" * 45)
-        print("🏆 WORLD CUP 2026 SIMULATOR (Student Edition) 🏆")
+        print("🏆 WORLD CUP 2026 SIMULATOR (Code in Place Edition) 🏆")
         print("=" * 45)
         print("1. View Groups & FIFA Rankings")
         print("2. Step‑by‑Step Simulation")
